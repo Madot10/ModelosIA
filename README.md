@@ -1,2 +1,2 @@
 # ModelosIA
-Practicas de IA. FastBook
+Prácticas de IA con Fastai
